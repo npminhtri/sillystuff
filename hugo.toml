@@ -1,0 +1,4 @@
+baseURL = 'https://github.com/npminhtri/sillystuff'
+languageCode = 'en-us'
+title = 'Silly stuff'
+theme = 'ananke'
